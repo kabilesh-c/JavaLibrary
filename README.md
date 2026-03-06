@@ -339,9 +339,9 @@ For production use:
 This project is open source and available for educational purposes.
 
 ## 👤 Author
-Kabilesh C
+**Kabilesh C**
 kabileshc.dev@gmail.com
-Created as a demonstration project for Library Management System.
+- Created as a demonstration project for Library Management System.
 
 ## 🤝 Contributing
 
